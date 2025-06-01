@@ -1,7 +1,7 @@
 # Static Website with CloudFront and S3
 
 A simple static website hosted on AWS S3 and delivered globally through CloudFront CDN.
-
+![Image Description](static_web_diagram.png)
 ## About This Project
 
 This repository contains a static website with HTML and CSS, configured with a CI/CD pipeline for automatic deployment to AWS. The website is securely served via HTTPS using AWS services.
